@@ -14,7 +14,7 @@ Welcome to the **Voice Assistant** project! This Python-based voice assistant is
 
 Here’s a visual demo of the voice assistant in action:
 
-![Voice Assistant Demo](https://user-images.githubusercontent.com/your_image_link.gif)
+![Voice Assistant Demo](https://your-image-hosting-url.com/your-demo-image.gif)
 
 ## 🛠️ Technologies Used
 - **Python**: The core programming language.
@@ -24,27 +24,27 @@ Here’s a visual demo of the voice assistant in action:
 
 ### 📷 Screenshot of the Application
 
-![Voice Assistant Screenshot](https://user-images.githubusercontent.com/your_screenshot_link.png)
+![Voice Assistant Screenshot](https://your-image-hosting-url.com/your-screenshot-image.png)
 
 ## 📄 How It Works
 
 1. **Voice Recognition**: The `SpeechRecognition` library listens to your voice and converts it into text.
    
-   ![Voice Recognition Flow](https://user-images.githubusercontent.com/voice_recognition_flow_link.png)
+   ![Voice Recognition Flow](https://your-image-hosting-url.com/voice-recognition-flow.png)
    
 2. **Text-to-Speech Conversion**: `pyttsx3` takes text responses and converts them into speech.
    
-   ![Text-to-Speech Flow](https://user-images.githubusercontent.com/text_to_speech_flow_link.png)
+   ![Text-to-Speech Flow](https://your-image-hosting-url.com/text-to-speech-flow.png)
 
 3. **Web Interaction**: The `webbrowser` module handles web search requests and opens them in the default browser.
    
-   ![Web Search Interaction](https://user-images.githubusercontent.com/web_search_interaction_link.png)
+   ![Web Search Interaction](https://your-image-hosting-url.com/web-search-interaction.png)
 
 ## 🧑‍💻 Development Environment
 
 Developed using **Visual Studio Code**, which provides a powerful IDE for Python development.
 
-![Visual Studio Code](https://user-images.githubusercontent.com/vscode_screenshot_link.png)
+![Visual Studio Code](https://your-image-hosting-url.com/vscode-screenshot.png)
 
 ## 🤝 Contributing
 
@@ -53,11 +53,6 @@ Contributions are welcome! You can help improve this project by:
 - Suggesting features
 - Submitting pull requests
 
-## 📜 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
 
 🔗 **Connect with me**:
 - [GitHub](https://github.com/shadowking06)
