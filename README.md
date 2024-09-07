@@ -2,7 +2,8 @@
 
 ## Overview
 
-Welcome to the **Voice Assistant** project! This Python-based voice assistant is designed to interact with you using voice commands. Developed in **Visual Studio Code**, it showcases modern speech recognition and text-to-speech technology.
+Welcome to the **Voice Assistant** project ! 
+This Python-based voice assistant is designed to interact with you using voice commands. Developed in **Visual Studio Code**, it showcases modern speech recognition and text-to-speech technology.
 
 ## 🌟 Features
 - **Voice Command Recognition**: Understands and processes your spoken commands.
