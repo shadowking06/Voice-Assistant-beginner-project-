@@ -1,4 +1,6 @@
-# 🎤 Voice Assistant in Python (Beginner)
+# 🎤 Voice Assistant in Python ( Beginner )
+
+## ( PLEASE READ INSTRUCTION.DOCX FOR MORE HELP )
 
 ## Overview
 
