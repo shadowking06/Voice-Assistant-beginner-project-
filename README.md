@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python Logo" width="400"/>
+</p>
+
 # 🎤 Voice Assistant in Python ( Beginner )
 
 ## ( PLEASE READ INSTRUCTION.docx FOR MORE HELP )
@@ -34,12 +38,6 @@ This Python-based voice assistant is designed to interact with you using voice c
 ## 🧑‍💻 Development Environment
 
 Developed using **Visual Studio Code**, which provides a powerful IDE for Python development. 🖥️
-
-## 🖼️ Logo
-
-<center>
-    <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python Logo" width="300"/>
-</center>
 
 ## 🤝 Contributing
 
