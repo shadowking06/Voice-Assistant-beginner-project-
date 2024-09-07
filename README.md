@@ -1,8 +1,8 @@
-# 🎤 Voice Assistant in Python ( Beginner )
+# 🎤 Voice Assistant in Python (Beginner)
 
 ## Overview
 
-Welcome to the **Voice Assistant** project ! 
+Welcome to the **Voice Assistant** project! 
 
 This Python-based voice assistant is designed to interact with you using voice commands. Developed in **Visual Studio Code**, it showcases modern speech recognition and text-to-speech technology.
 
@@ -33,13 +33,18 @@ This Python-based voice assistant is designed to interact with you using voice c
 
 Developed using **Visual Studio Code**, which provides a powerful IDE for Python development. 🖥️
 
+## 🖼️ Logo
+
+<center>
+    <img src="https://raw.githubusercontent.com/username/repository/main/path/to/python-logo.png" alt="Python Logo" width="300"/>
+</center>
+
 ## 🤝 Contributing
 
 Contributions are welcome! You can help improve this project by:
 - Reporting issues 🐞
 - Suggesting features 💡
 - Submitting pull requests 🔄
-
 
 🔗 **Connect with me**:
 - [GitHub](https://github.com/shadowking06)
