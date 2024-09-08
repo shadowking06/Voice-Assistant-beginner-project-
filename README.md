@@ -2,9 +2,9 @@
   <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python Logo" width="400"/>
 </p>
 
-# 🎤 Voice Assistant in Python ( Beginner )
-
 ## ( PLEASE READ INSTRUCTION.docx FOR MORE HELP ! )
+
+# 🎤 Voice Assistant in Python ( Beginner )
 
 ## Overview
 
